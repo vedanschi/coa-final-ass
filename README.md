@@ -16,6 +16,7 @@ A containerized Flask application that connects to a MySQL database using Docker
 
 🌐 Access the Application
 Visit http://localhost:5000 in your browser to see the user data table.
+![lab008](https://github.com/user-attachments/assets/088219f5-ea17-4fe0-b619-f609b2f7c72b)
 
 <!-- SCREENSHOT_PLACEHOLDER: browser_output.png -->🌐 Access the Application
 Visit http://localhost:5000 in your browser to see the user data table.
@@ -35,4 +36,6 @@ INSERT INTO users (name, age) VALUES
     ('Alice', 28),
     ('Bob', 32),
     ('Charlie', 24);
-![lab008](https://github.com/user-attachments/assets/088219f5-ea17-4fe0-b619-f609b2f7c72b)
+![lab004](https://github.com/user-attachments/assets/3aa14649-4508-4456-809f-5cfa29412ae0)
+
+
